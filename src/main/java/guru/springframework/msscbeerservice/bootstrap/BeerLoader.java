@@ -7,9 +7,6 @@ import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 
-/**
- * Created by jt on 2019-05-17.
- */
 @Component
 public class BeerLoader implements CommandLineRunner {
 
